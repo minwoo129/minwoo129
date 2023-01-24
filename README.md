@@ -6,5 +6,5 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=Amazon AWS&logoColor=fff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=Amazon AWS&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=Amazon S3&logoColor=fff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=fff"/></a>
