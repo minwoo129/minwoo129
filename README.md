@@ -12,7 +12,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=fff"/></a>
 
 
-블로그 링크: [https://velog.io/@minwoo129](https://velog.io/@minwoo129)
+Velog: [https://velog.io/@minwoo129](https://velog.io/@minwoo129)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoo129&layout=compact&theme=gruvbox)
 
