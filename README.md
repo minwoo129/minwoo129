@@ -15,6 +15,8 @@
 
 블로그 링크: [https://velog.io/@minwoo129](https://velog.io/@minwoo129)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoo129&layout=compact&theme=gruvbox)
+
 ### 참여 프로젝트
 
 구르미랑 (2021.04 ~ ) ⇒ [Portfolio](https://www.notion.so/12ba124f5be747b08f966f48dad802eb)
