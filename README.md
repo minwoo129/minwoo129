@@ -5,7 +5,7 @@
 
 <a href="#" target="_blank"></a>
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=text=Good%20to%20see%20you%20🖐️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good%20to%20see%20you%20🖐️)
 
 ## 기술스택
 ### Frontend
