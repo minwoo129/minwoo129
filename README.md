@@ -1,9 +1,11 @@
 <!--  
+뱃지 생성: https://shields.io/badges
 이미지 url 형식(예시): https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=로고이름&logoColor=로고색상
 이미지 링크: https://simpleicons.org/
 
 <a href="#" target="_blank"></a>
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=text=Good%20to%20see%20you%20🖐️)
 
 ## 기술스택
 ### Frontend
