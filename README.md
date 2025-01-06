@@ -1,5 +1,3 @@
-# 솔루션을 찾아내는 개발자, 류민우입니다.
-
 <!--  
 이미지 url 형식(예시): https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=로고이름&logoColor=로고색상
 이미지 링크: https://simpleicons.org/
@@ -32,5 +30,6 @@
 ## Content
 <a href="https://velog.io/@minwoo129/posts" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=fff" /></a>
 
+## 언어 사용량 통계
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoo129&layout=compact&theme=gruvbox)
 
