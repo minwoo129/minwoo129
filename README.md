@@ -13,8 +13,12 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff&labelColor=3178C6" /></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff&labelColor=F7DF1E"/></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff&labelColor=646CFF" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=fff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=fff&labelColor=3578E5"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=fff&labelColor=6E9F18" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=fff&labelColor=C21325"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=fff&labelColor=FF9100" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=fff"/></a>
 
