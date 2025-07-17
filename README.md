@@ -37,6 +37,10 @@
 ## Content
 <a href="https://velog.io/@minwoo129/posts" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=fff" /></a>
 
+## Projects
+- [@fetoolkit/react](https://www.npmjs.com/package/@fetoolkit/react): FE 프로젝트 개발시 사용할 수 있는 툴킷 라이브러리(React 전용)
+- [@fetoolkit/utils](https://www.npmjs.com/package/@fetoolkit/utils): FE 프로젝트 개발시 사용할 수 있는 툴킷 라이브러리(유틸리티 함수, 전체 프레임워크 공통)
+
 ## 언어 사용량 통계
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoo129&layout=compact&theme=gruvbox)
 
